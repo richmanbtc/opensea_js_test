@@ -1,0 +1,10 @@
+{
+  "name": "opensea_js_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "richmanbtc",
+  "license": "CC0",
+  "dependencies": {
+    "opensea-js": "^1.1.12"
+  }
+}
